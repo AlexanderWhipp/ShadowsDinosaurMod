@@ -1,0 +1,200 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"trex.roar": {
+			"animation_length": 6,
+			"bones": {
+				"main_body": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"base": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"section2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"section3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"tip": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"kneck": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [-12.5, 0, 0]
+						},
+						"5.0": {
+							"vector": [-12.5, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [5, 0, 0]
+						},
+						"5.0": {
+							"vector": [5, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"head": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [-22, 0, 0]
+						},
+						"5.0": {
+							"vector": [-22, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"jawbone": {
+					"rotation": {
+						"0.0": {
+							"vector": [-12.5, 0, 0]
+						},
+						"0.5": {
+							"vector": [30, 0, 0]
+						},
+						"5.0": {
+							"vector": [30, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [-27.73873, 3.27299, -4.53255]
+					}
+				},
+				"lowerleg": {
+					"rotation": {
+						"vector": [-22.5, 0, 0]
+					}
+				},
+				"foot": {
+					"rotation": {
+						"vector": [52.5, 0, 0]
+					}
+				},
+				"toes": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [35.79653, -2.89757, 4.15232]
+					}
+				},
+				"lowerleg2": {
+					"rotation": {
+						"vector": [-22.426, -0.63034, -0.21679]
+					}
+				},
+				"foot2": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					}
+				},
+				"toes2": {
+					"rotation": {
+						"vector": [-12.5, 0, 0]
+					}
+				},
+				"spine": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [12.5, 0, 0]
+						},
+						"5.0": {
+							"vector": [12.5, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.5": {
+					"effect": "trex_roar"
+				}
+			}
+		}
+	}
+}

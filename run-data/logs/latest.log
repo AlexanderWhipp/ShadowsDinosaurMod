@@ -1,0 +1,37 @@
+[17May2025 20:23:38.918] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\alexw\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, shadowsdinosaurmod, --all, --output, D:\MinecraftMods\ShadowsDinosaurMod\src\generated\resources, --existing, D:\MinecraftMods\ShadowsDinosaurMod\src\main\resources]
+[17May2025 20:23:38.922] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.6+8-LTS-188
+[17May2025 20:23:38.922] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.6 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[17May2025 20:23:39.023] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file D:\MinecraftMods\ShadowsDinosaurMod\run-data\config\fml.toml is not correct. Correcting
+[17May2025 20:23:39.025] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[17May2025 20:23:39.025] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[17May2025 20:23:39.026] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[17May2025 20:23:39.026] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[17May2025 20:23:39.039] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[17May2025 20:23:39.161] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/alexw/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[17May2025 20:23:40.202] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[17May2025 20:23:41.044] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17May2025 20:23:41.047] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\alexw\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, shadowsdinosaurmod, --all, --output, D:\MinecraftMods\ShadowsDinosaurMod\src\generated\resources, --existing, D:\MinecraftMods\ShadowsDinosaurMod\src\main\resources]
+[17May2025 20:23:41.151] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 20:23:41.151] [main/WARN] [mixin/]: Mixin environment was unable to detect the current side, sided mixins will not be applied
+[17May2025 20:23:41.180] [main/WARN] [mixin/]: Mixin environment was unable to detect the current side, sided mixins will not be applied
+[17May2025 20:23:42.904] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17May2025 20:23:46.473] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[17May2025 20:23:46.474] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[17May2025 20:23:46.498] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[17May2025 20:23:46.745] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [shadowsdinosaurmod]
+[17May2025 20:23:46.808] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/alexw/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[17May2025 20:23:46.809] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/alexw/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[17May2025 20:23:46.943] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[17May2025 20:23:47.126] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 182 ms
+[17May2025 20:23:47.126] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[17May2025 20:23:47.127] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 1 ms
+[17May2025 20:23:47.128] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id shadowsdinosaurmod
+[17May2025 20:23:47.147] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id shadowsdinosaurmod finished after 18 ms
+[17May2025 20:23:47.147] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id shadowsdinosaurmod
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id shadowsdinosaurmod finished after 0 ms
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: shadowsdinosaurmod
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: shadowsdinosaurmod finished after 0 ms
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: shadowsdinosaurmod
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: shadowsdinosaurmod finished after 0 ms
+[17May2025 20:23:47.148] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 204 ms
+[17May2025 20:23:47.156] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 3, old count: 0, new count: 4, removed stale: 0, written: 3
